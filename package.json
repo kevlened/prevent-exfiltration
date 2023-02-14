@@ -1,0 +1,14 @@
+{
+  "name": "prevent-exfiltration",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "jose": "^4.11.4"
+  }
+}
